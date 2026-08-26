@@ -1,3 +1,5 @@
+
+
 # Fact-Checker Skill for Claude
 
 A comprehensive fact-checking and verification skill that enables Claude to analyze text, articles, and web content for factual accuracy using academic and journalistic approaches.
@@ -41,7 +43,7 @@ Total Score = (Source Credibility × 0.40) + (Methodology × 0.30) +
 
 1. Download `fact-checker.zip`
 2. In Claude: Settings → Skills → Add skill → Upload skill
-3. Select the downloaded file
+3. Select the downloaded `fact-checker.zip` file
 
 ## Usage Examples
 
